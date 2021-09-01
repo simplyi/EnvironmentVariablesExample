@@ -1,0 +1,10 @@
+d-pom.xml
+.aws-sam/
+
+# IDEA internal
+*.iml
+.idea
+.gradle
+.settings
+.classpath
+.project
